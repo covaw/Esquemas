@@ -15,6 +15,8 @@ import (
 	"github.com/actgardner/gogen-avro/v10/vm/types"
 )
 
+import "C"
+
 type UnionNullLongTypeEnum int
 
 const (
