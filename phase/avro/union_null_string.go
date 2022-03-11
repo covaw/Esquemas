@@ -13,7 +13,7 @@ import (
 	"github.com/actgardner/gogen-avro/v10/compiler"
 	"github.com/actgardner/gogen-avro/v10/vm"
 	"github.com/actgardner/gogen-avro/v10/vm/types"
-)gi
+)
 
 // import "C"
 
