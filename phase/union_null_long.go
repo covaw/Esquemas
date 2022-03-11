@@ -3,7 +3,7 @@
  * SOURCE:
  *     Phase.avsc
  */
-package avro
+package phase
 
 import (
 	"encoding/json"
@@ -15,7 +15,7 @@ import (
 	"github.com/actgardner/gogen-avro/v10/vm/types"
 )
 
-// import "C"
+import "C"
 
 type UnionNullLongTypeEnum int
 

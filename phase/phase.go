@@ -3,7 +3,7 @@
  * SOURCE:
  *     Phase.avsc
  */
-package avro
+package phase
 
 import (
 	"encoding/json"
