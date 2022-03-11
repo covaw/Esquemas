@@ -1,4 +1,4 @@
-module github.com/covaw/esquemas/phase
+module phase.go
 
 go 1.17
 
